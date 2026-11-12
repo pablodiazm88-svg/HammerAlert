@@ -1,0 +1,6 @@
+## Interface: 16001
+## Title: HammerAlert
+## Author: EKO
+## Version: 2.7
+## SavedVariables: HammerAlertDB
+HammerAlert.lua
